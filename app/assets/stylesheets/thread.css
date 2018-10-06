@@ -1,0 +1,13 @@
+.date {
+    margin-bottom: 10px;
+}
+
+.content {
+    margin-bottom: 10px;
+}
+.count {
+    float: right;
+}
+.thread {
+    border-bottom: 2px solid #000000;
+}
